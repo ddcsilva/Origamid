@@ -1,0 +1,41 @@
+html {
+    font-family: Arial;
+    margin: 50px;
+}
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin: 0px;
+}
+
+p {
+    color: #b2b2b2;
+}
+
+a {
+    display: inline-block;
+    background: #febe01;
+    color: #332200;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.box {
+    background: #111;
+    color: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    margin: 20px;
+}
+
+.destaque {
+    color: #febe01;
+}
