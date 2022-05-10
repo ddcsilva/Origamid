@@ -1,0 +1,12 @@
+div {
+    width: 50%;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.foto {
+    width: 150px;
+}
