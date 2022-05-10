@@ -1,0 +1,9 @@
+img {
+    display: block;
+    width: 600px;
+    max-width: 100%;
+}
+
+div {
+    background: lightblue;
+}
